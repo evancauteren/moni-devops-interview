@@ -1,4 +1,4 @@
-# Challenge DevOps Interview
+# Entrevista Técnica DevOps
 En el presente repositorio se encuentran los accesos a las tres pruebas solicitadas en la entrevista técnica de DevOps.
 
 ## Prueba 1 - Diagrama de Red
